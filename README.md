@@ -62,5 +62,5 @@ Large datasets and multiple visuals caused initial performance lag, which was im
 
 - A drop in Revenue is observed after Week 30, especially in the Luxury category.
 
-  ## 🖼️ Dashboard Preview
+## 🖼️ Dashboard Preview
 
